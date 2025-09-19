@@ -4,6 +4,8 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+Used starting code for ListyCity as instructed.
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
